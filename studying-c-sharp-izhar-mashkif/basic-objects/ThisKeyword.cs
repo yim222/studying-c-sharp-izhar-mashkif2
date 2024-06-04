@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace studying_c_sharp_izhar_mashkif.basic_objects
 {
-
+    //some comment
 
     //some docs:
     //https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/this
