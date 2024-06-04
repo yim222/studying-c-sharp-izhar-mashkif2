@@ -12,6 +12,7 @@ namespace studying_c_sharp_izhar_mashkif.statics_demo
         {
             Console.WriteLine("Hi, I am class Level2");
             Level3_1.RunMe();
+            Level3_2.RunMe();
         }
     }
 }
